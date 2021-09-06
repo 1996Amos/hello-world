@@ -1,3 +1,3 @@
 # hello-world
-repository creation 
-my name ios professor Amoh. i love coding so much
+
+my name is professor Amoh. i love coding so much
